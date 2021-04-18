@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    background: #5BB2FF;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 28px;
+}
+img{
+  height: 200px;
+  width: 200px;
+}
+.header_div{
+    background: white;
+    color: red;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: #B0D9FE;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.main_div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom:0px ;
+    box-shadow: 5px 5px 18px white;
+}
+
+#camera , #result {
+    border:2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+.footer_div{
+  margin-bottom: 50px;
+}
+.footer_div h4{
+  background: white;
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: 5px 5px 18px white ;
+
+}
+.footer_div img{
+  width:70px;
+}
+.copy_right_footer{
+  position: fixed;
+  color: #6c757d;
+  border-radius: 20px;
+  bottom: 0;
+  width: 200px;
+  margin-left: 860px;
+  background-color: #bef2ff;
+  line-height: 3;
+  text-align: center;
+}
